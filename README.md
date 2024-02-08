@@ -20,8 +20,8 @@ To install DayCraft, follow these steps:
 
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Run `npm start` to start the application.
+3. Run `cd DayCraft` 
+4. Run `npx expo start` 
 
 ## Technologies Used
 
