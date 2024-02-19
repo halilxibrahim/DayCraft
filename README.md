@@ -12,6 +12,7 @@ DayCraft is a mobile application designed to help you manage your daily tasks an
 ## Screenshots
 
 <img width="404" alt="Ekran Resmi 2024-02-08 23 27 09" src="https://github.com/halilxibrahim/DayCraft/assets/54751699/4b5333a6-0803-4aa3-bc8a-4afb4f0a78b0">
+<img width="400" alt="Ekran Resmi 2024-02-18 15 50 17" src="https://github.com/halilxibrahim/DayCraft/assets/54751699/a443c477-0c02-4698-84bf-676fcb5be260">
 
 
 ## Installation
